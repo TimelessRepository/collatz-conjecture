@@ -1,2 +1,2 @@
 # collatz-conjecture
-python implement for Collatz Conjecture.
+Python implement for Collatz Conjecture.
